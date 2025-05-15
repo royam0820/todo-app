@@ -1,0 +1,6 @@
+To-Do List Web App
+- Users can add, edit, and delete tasks.
+- Tasks are stored in local storage.
+- UI built with React and styled with Tailwind CSS.
+- Features: task list display, form to add tasks, buttons to edit/delete.
+- Stretch goal: Filter tasks by completion status.
